@@ -22,7 +22,7 @@ you can find the explanation of these terms there as well.
 
 
 Auto-scheduling
-^^^^^^^^^^^^^^^
+===============
 
 Heart of the Horn is an automatic scheduler that allows you to scheduale a whole week of program for your radio.
 This means you can define rules, which will controll your playlists and repeat them each week. (I.e. Sunday morning selection,
@@ -72,7 +72,7 @@ If you have more then one content type - you will have to choose to which conten
 
 
 Content Types
-^^^^^^^^^^^^^
+*************
 
 Content types are made for the purpose of clear browsing and tracking past or future
 broadcasts.
@@ -89,10 +89,10 @@ and it will be more comfortable to track past broadcasts.
 
 
 Workflow
-********
+========
 
 To have an auto-generated playlist with rule defined by you, you need:
-- have uploaded files, that has assigned tags;
+- have uploaded files that have assigned tags;
 - move the files to Ready stage;
 - create at least one content type (i.e. music)
 - add an Automatic Scheduler for period of the week.
