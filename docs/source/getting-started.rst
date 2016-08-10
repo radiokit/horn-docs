@@ -33,7 +33,7 @@ but for now its main function is to shuffle audio files from the group of chosen
 several days of the week.
 
 Creating a automatic scheduler
-******************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To create a Automatic scheduler go to Broadcast/Auto.
 
@@ -56,7 +56,7 @@ each minute just for a 30 minutes ahead, allowing you to program things manually
 
 
 Adding a single file in the scheduale
-*************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you want to schedule a particular file at exact time and date follow the next steps.
 Go to Broadcast/Schedule and click the button Add Track.
@@ -72,7 +72,7 @@ If you have more then one content type - you will have to choose to which conten
 
 
 Content Types
-*************
+^^^^^^^^^^^^^
 
 Content types are made for the purpose of clear browsing and tracking past or future
 broadcasts.
