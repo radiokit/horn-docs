@@ -55,6 +55,8 @@ Next you just need to pick the days of the week and exact time, which is going t
 filled with this Automatic scheduler. Optionally you can name your Autoimatic Scheduler, so you can easily distinguish it later on (i.e. Monday morning chill, Weekend evening club list, etc.).
 If you have more then one content type - you will have to choose to which content type this Automatic Scheduler belongs.
 
+.. image:: assets/horn_date_pick.png
+
 Click on the Add button and voila! You should see your automatic scheduler in the list.
 
 
