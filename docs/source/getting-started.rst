@@ -37,13 +37,20 @@ Creating a automatic scheduler
 
 To create a Automatic scheduler go to Broadcast/Auto.
 
+.. image:: assets/horn_add_automatic_scheduler.png
+
 Then click Add Automatic Scheduler.
+
+.. image:: assets/horn_broadcast_auto.png
 
 This will open up a pop up window, where you need to choose shuffle in the drop down menu.
 
 Next thing you need to do is to pick tags you predifiend in the repositories from which you want the system to use the audio files.
 You can pick multiple tags from different repositories.
 If you choose more than one tag you can set the percentage of the tag presence in the scheduled playlist.
+
+.. image:: assets/horn_shuffler.png
+
 Next you just need to pick the days of the week and exact time, which is going to be
 filled with this Automatic scheduler. Optionally you can name your Autoimatic Scheduler, so you can easily distinguish it later on (i.e. Monday morning chill, Weekend evening club list, etc.).
 If you have more then one content type - you will have to choose to which content type this Automatic Scheduler belongs.
