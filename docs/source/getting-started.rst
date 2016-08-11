@@ -37,11 +37,11 @@ Creating a automatic scheduler
 
 To create a Automatic scheduler go to Broadcast/Auto.
 
-.. image:: assets/horn_add_automatic_scheduler.png
+.. image:: assets/horn_broadcast_auto.png
 
 Then click Add Automatic Scheduler.
 
-.. image:: assets/horn_broadcast_auto.png
+.. image:: assets/horn_add_automatic_scheduler.png
 
 This will open up a pop up window, where you need to choose shuffle in the drop down menu.
 
